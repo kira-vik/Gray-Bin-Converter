@@ -35,7 +35,7 @@ Alternatively, you can open and run the project in [Pycharm IDE](https://www.jet
 - [How to Convert Gray to Binary and Binary to Gray code](https://youtu.be/cbmh1DPPQyI)
 
 ## Author
-Victor Weke - _Maintainer_ - @[kira-vik](https://github.com/kira-vik)
+Victor Weke - @[kira-vik](https://github.com/kira-vik)
 
 ## License
 Copyright © 2022, Victor Weke.
